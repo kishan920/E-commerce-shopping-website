@@ -1,4 +1,7 @@
-# Radium
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&duration=6084&lines=+E-commerce+Shopping+web)](https://git.io/typing-svg)
+
 ## Project - Products Management
 
 ### Key points
